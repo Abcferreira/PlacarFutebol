@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Placar Futebol</string>
+    <string name="time_a">Time A</string>
+    <string name="score_A">0</string>
+    <string name="goal_A">gol</string>
+    <string name="yell_card_A">cartão amarelo</string>
+    <string name="foul_A">falta</string>
+    <string name="red_card_A">cartão vermelho</string>
+    <string name="time_b">Time b</string>
+    <string name="score_B">0</string>
+    <string name="goal_B">gol</string>
+    <string name="yell_card_B">cartão amarelo</string>
+    <string name="foul_B">falta</string>
+    <string name="red_card_B">cartão vermelho</string>
+    <string name="reset_All">Reset</string>
+    <string name="amrelo_A">0</string>
+    <string name="falta_A">0</string>
+    <string name="vermelho_A">0</string>
+    <string name="amarelo_B">0</string>
+    <string name="falta_B">0</string>
+    <string name="vermelho_B">0</string>
+</resources>
